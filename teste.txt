@@ -1,2 +1,4 @@
 Este é um arquivo de teste.
 Para a Atividade 1 de Versionamento de Código
+
+Editando o conteúdo da Branch Main
