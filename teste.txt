@@ -2,6 +2,10 @@ Este é um arquivo de teste.
 Para a Atividade 1 de Versionamento de Código
 
 
+
 Essa é uma atualização da Branch
 
 Atualização Final
+
+Editando o conteúdo da Branch Main
+
